@@ -8,7 +8,7 @@ EXAMPLE
 
 	ActionName : "my name"
 	ActionAPI : "Crypto"
-       	TriggerAPI : "GMail"
+	TriggerAPI : "GMail"
 	ActionData : "[from] [to]"
 	TriggerData for Crypto : "[currency] [operator] [value]"
 	TriggerData for Twitch : "[channel]"
