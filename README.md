@@ -1,5 +1,9 @@
 # AREA DOT NET
 
+DESCRIPTION
+
+	Epitech 3rd year project in C#
+
 GUIDE
 
 	Create events between some APIs
