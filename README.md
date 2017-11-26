@@ -1,9 +1,11 @@
 # AREA DOT NET
 
 GUIDE
+
 	Create events between some APIs
 
 EXAMPLE
+
 	ActionName : "my name"
 	ActionAPI : "Crypto"
        	TriggerAPI : "GMail"
