@@ -3,5 +3,9 @@ AREA DOT NET
 Action Name : "my name"
 ActionAPI : "Crypto"
 TriggerAPI : "GMail"
-ActionData : "BTC > 5000"
-TriggerData "mygmail@gmail.com mygmail@gmail.com"
+ActionData : "[from] [to]"
+
+TriggerData for Crypto : "BTC > 5000"
+TriggerData for Twitch : "[channel]"
+TriggerData for League : "[account]"
+TriggerData for Reddit : "[subreddit]"
