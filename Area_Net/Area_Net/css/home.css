@@ -1,0 +1,31 @@
+﻿body {
+    font-family: Roboto, sans-serif;
+    color: white;
+}
+
+.splashscreen {
+    min-height: 600px;
+    background-image: url(https://www.scdn.co/i/home/segmented-home/loggedout-hero-bg.svg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 60%;
+    height: 100%;
+}
+
+    .splashscreen h1 {
+        font-weight: 900;
+        font-size: 80px;
+        line-height: 1.1;
+    }
+
+    .splashscreen h3 {
+        font-weight: 900;
+        font-size: 20px;
+        margin-bottom: 60px;
+        margin-top: 60px;
+    }
+
+    .splashscreen a {
+        background-color: forestgreen;
+        border-radius: 10px;
+    }

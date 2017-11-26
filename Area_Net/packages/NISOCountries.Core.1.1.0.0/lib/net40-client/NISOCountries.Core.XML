@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>NISOCountries.Core</name>
+    </assembly>
+    <members>
+        <member name="T:NISOCountries.Core.SourceProviders.CachingWebSource.TimedWebClient">
+            <summary>
+            Simple "wrapper class" providing timeouts.
+            </summary>
+        </member>
+    </members>
+</doc>

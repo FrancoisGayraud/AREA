@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2006
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Area_Net", "Area_Net\Area_Net.csproj", "{4CEC3946-1FF7-49E0-8860-6EFB44750028}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APIManager", "APIManager\APIManager.csproj", "{F37E73C1-ADCC-4989-994C-F8E3AF0AAD44}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4CEC3946-1FF7-49E0-8860-6EFB44750028}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CEC3946-1FF7-49E0-8860-6EFB44750028}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CEC3946-1FF7-49E0-8860-6EFB44750028}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CEC3946-1FF7-49E0-8860-6EFB44750028}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F37E73C1-ADCC-4989-994C-F8E3AF0AAD44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F37E73C1-ADCC-4989-994C-F8E3AF0AAD44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F37E73C1-ADCC-4989-994C-F8E3AF0AAD44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F37E73C1-ADCC-4989-994C-F8E3AF0AAD44}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BD4CAA67-2582-4CC1-9100-EBF7F7A99B98}
+	EndGlobalSection
+EndGlobal
