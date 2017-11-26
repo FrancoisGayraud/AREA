@@ -1,15 +1,14 @@
 # AREA DOT NET
 
 GUIDE
-
-	Action Name : "my name"
-       	ActionAPI : "Crypto"
-       	TriggerAPI : "GMail"
+	Create events between some APIs
 
 EXAMPLE
-
+	ActionName : "my name"
+	ActionAPI : "Crypto"
+       	TriggerAPI : "GMail"
 	ActionData : "[from] [to]"
-	TriggerData for Crypto : "BTC > 5000"
+	TriggerData for Crypto : "[currency] [operator] [value]"
 	TriggerData for Twitch : "[channel]"
 	TriggerData for League : "[account]"
 	TriggerData for Reddit : "[subreddit]"
